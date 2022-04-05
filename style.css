@@ -1,0 +1,22 @@
+.canvas-container {
+    margin:0 auto ;
+    top:40px;
+    
+    /* width:1000px; */
+    /* background-color:green; */
+      border:2px dashed black;      
+}
+ 
+button{
+    margin-top: 15px;
+    padding:3px;
+    border: none;
+    border-radius: 10%;
+    background-color: powderblue;
+    margin-right: 5px;
+    color:white;
+}
+button:hover,input:hover{
+    color:black;
+    cursor: pointer;
+}
